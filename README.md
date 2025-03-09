@@ -1,2 +1,2 @@
 # react-proj
-Testing out react with codespace
+Cooking smth with react, have patience
