@@ -9,15 +9,11 @@ function App() {
         <p>
           Akash Sarangi
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Gotta insert the fucking code here
+        <a href="#">
+          <p>
           Yes ffs
           gotta do this here
+          </p>
         </a>
       </header>
     </div>
