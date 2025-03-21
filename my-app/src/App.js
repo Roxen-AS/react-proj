@@ -12,7 +12,6 @@ function App() {
         <a href="#">
           <p>
           Yes ffs
-          gotta do this here
           </p>
         </a>
       </header>
