@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Akash Sarangi
+          Github - Roxen-AS
         </p>
         <a href="#">
           <p>
