@@ -1,3 +1,3 @@
 # react-proj
-Cooking something with react
+Was cooking something with react
 :)
